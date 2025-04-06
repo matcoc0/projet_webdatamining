@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Kuwait">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+    <ns1:reassured rdf:resource="http://example.org/Iran"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ravanchi">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Reuters_Iran">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+    <ns1:pushing_against rdf:resource="http://example.org/US_demand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Indirect">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Iranian">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Iraq">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Arab">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/he">
+    <ns1:prefer rdf:resource="http://example.org/deal"/>
+    <ns1:prefer_to rdf:resource="http://example.org/military_confrontation"/>
+    <ns1:written_on rdf:resource="http://example.org/March"/>
+    <ns1:written_to rdf:resource="http://example.org/Khamenei"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Lebanon">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/it">
+    <ns1:negotiate_over rdf:resource="http://example.org/nuclear_programme"/>
+    <ns1:accept rdf:resource="http://example.org/aggressive_action"/>
+    <ns1:trigger rdf:resource="http://example.org/called_snap"/>
+    <ns1:accelerating rdf:resource="http://example.org/enrichment"/>
+    <ns1:accelerating rdf:resource="http://example.org/nuclear_watchdog"/>
+    <ns1:accelerating_to rdf:resource="http://example.org/purity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Iran">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+    <ns1:rejected rdf:resource="http://example.org/Trumps_demand"/>
+    <ns1:issued rdf:resource="http://example.org/notice"/>
+    <ns1:targeted rdf:resource="http://example.org/US_base"/>
+    <ns1:targeted_after rdf:resource="http://example.org/assassination"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Qassem_Soleimani">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Omani">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Israel">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+    <ns1:launch rdf:resource="http://example.org/it"/>
+    <ns1:launch rdf:resource="http://example.org/own_attack"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Russia">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+    <ns1:said_on rdf:resource="http://example.org/Thursday"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Russian">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Vladimir_Putin">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Abbas_Araqchi">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Spokespeople">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Yemen">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Irans">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Syria">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/messaging">
+    <ns1:supported rdf:resource="http://example.org/it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Donald_Trumps">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/United_Arab_Emirates_Qatar_Turkey">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/US">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+    <ns1:making rdf:resource="http://example.org/threat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/UN">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/UAE_Qatar">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Indirect_talk">
+    <ns1:offer rdf:resource="http://example.org/chance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Iraq_Kuwait">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ali_Ayatollah_Leader_Khamenei">
+    <ns1:placed rdf:resource="http://example.org/armed_force"/>
+    <ns1:placed_on rdf:resource="http://example.org/alert_Warnings"/>
+    <ns1:placed_by rdf:resource="http://example.org/Trump"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Worries_of_a">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Muscat_Omans">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Reuters">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Khamenei">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+    <ns1:authorised rdf:resource="http://example.org/Abbas_Minister_Araqchi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ally">
+    <ns1:said rdf:resource="http://example.org/Iranian_second_official"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Trump">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/who">
+    <ns1:spoke_to rdf:resource="http://example.org/Reuters"/>
+    <ns1:spoke_on rdf:resource="http://example.org/condition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Supreme_Leader_Ayatollah_Ali_Khamenei">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Israeli">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/that">
+    <ns1:carry rdf:resource="http://example.org/significant_proportion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/military_Iranian_senior_commander">
+    <ns1:implied_on rdf:resource="http://example.org/Monday"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/state_Iranian_medium">
+    <ns1:reported_On rdf:resource="http://example.org/Wednesday"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Gaza">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/US_base">
+    <ns1:targeted_in rdf:resource="http://example.org/conflict"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Western">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Oman">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Gulf">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Warnings">
+    <rdf:type rdf:resource="http://example.org/Miscellaneous"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Majid_Takht">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Washingtons">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/This">
+    <ns1:depends_on rdf:resource="http://example.org/dynamic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Moscows">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Baghdad">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/act">
+    <ns1:have rdf:resource="http://example.org/severe_consequence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Turkeys_Foreign_Ministry">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/official">
+    <ns1:offer rdf:resource="http://example.org/chance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/such_message">
+    <ns1:conveyed_by rdf:resource="http://example.org/other_channel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Islamic_Republic">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Islamic_Revolutionary_Guards_Corps_Amirali_Hajizadeh">
+    <rdf:type rdf:resource="http://example.org/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Quds_Force">
+    <rdf:type rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Bahrain">
+    <rdf:type rdf:resource="http://example.org/Location"/>
+  </rdf:Description>
+</rdf:RDF>
